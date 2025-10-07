@@ -1,13 +1,5 @@
 Banking System with JDBC (Java + MySQL)
 
-A console-based Java banking system using JDBC and MySQL for real-time account management, including account creation, deposit, withdrawal, and viewing—all data securely stored in a MySQL database.
-
-Features
-Create new bank accounts
-Deposit and withdraw money
-Show all accounts in the system
-Persistent storage with MySQL database using JDBC
-
 Technologies
 Java
 JDBC (MySQL Connector/J)
