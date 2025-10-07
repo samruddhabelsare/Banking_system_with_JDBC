@@ -7,7 +7,7 @@ class Account {
     private String type;
     private double balance;
     private boolean active;
-
+    //author - Samruddha Belsare//Github - https://github.com/samruddhabelsare
     public Account(int accountNo, String holderName, double balance, String type, boolean active) {
         this.accountNo = accountNo;
         this.holderName = holderName;
@@ -115,7 +115,8 @@ class AccountManager {
         }
     }
 }
-
+//author - Samruddha Belsare
+//Github - https://github.com/samruddhabelsare
 public class Banking_system_with_db {
     private static Scanner sc = new Scanner(System.in);
     private static AccountManager manager = new AccountManager();
@@ -208,3 +209,5 @@ public class Banking_system_with_db {
         }
     }
 }
+//author - Samruddha Belsare
+//Github - https://github.com/samruddhabelsare
